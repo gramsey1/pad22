@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pad-22
 
 You can use the [editor on GitHub](https://github.com/gramsey1/pad22/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
